@@ -1,0 +1,9 @@
+asgiref==3.6.0
+cymysql==0.9.18
+Django==3.2.16
+django-bulma==0.8.3
+django-cymysql==3.2.0
+pdfkit==0.6.1
+pytz==2022.7.1
+sqlparse==0.4.3
+typing_extensions==4.5.0
